@@ -1,32 +1,22 @@
-# gist-604b-assignment1
-GIST 604B Assignment 1: GitHub Repository Management
-**Student:** [LYDIA BARKER]  
-Course: GIST 604B - Open Source GIS  
-Module 1: Open Source Infrastructure & Workflows  
-Assignment 1: GitHub Repository Management  
-University of Arizona  
+# Lydia Barker – GIS Portfolio
 
-## Learning Goals
-In this assignment, I'm learning:
-- GitHub repository management and organization
-- Professional documentation with Markdown
-- Writing and running Python scripts
-- Using GitHub Codespaces as a cloud development environment
-- Practicing the Git workflow (stage → commit → push)
-- Understanding how open source projects use Issues for collaboration
+## About
+I have been a Planner for the City of Tucson Department of Transportation and Mobility for 2 years, recently earned my Master in Public Administration, and earned a BS in Sustainable Built Environments from the University of Arizona. In my educational and professional capacities, I have used ESRI products such as ArcGIS Online and ArcGIS Pro to visualize data with the goal of making informed, data-driven decisions. 
 
-## Repository Purpose
-This repository demonstrates GitHub skills including:
-- Creating and organizing a professional project structure
-- Writing clear technical documentation
-- Executing Python code in GitHub Codespaces
-- Using Git for version control
-- Creating labeled Issues to model collaborative workflows
+## Projects
+Links to course projects will be added as part of this assignment.
 
-## Repository Structure
-- `docs/` - documentation
-- `scripts/` - Python scripts
-
-## Usage
-To run the hello script:
-python scripts/hello.py
+## Skills
+- ESRI Products
+  ArcGIS Online
+  ArcGIS Pro
+  Storymaps
+  Survey123
+- Github
+- Leaflet
+- QGIS
+- Coding Languages
+  HTML
+  Python
+  CSS
+  JavaScript
